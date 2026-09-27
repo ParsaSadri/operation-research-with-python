@@ -10,8 +10,6 @@ This course material has been prepared based on the structure and topics of the 
 
 The purpose of this repository is to provide a practical computational companion to the theoretical concepts of Operations Research. Instead of relying solely on traditional tools such as spreadsheet-based optimization, the notebooks demonstrate how OR concepts can be formulated, analyzed, and implemented programmatically.
 
-> This repository is an independent educational project based on the course topics and structure. It is not an official publication or repository of Amirkabir University of Technology or Dr. Golroo.
-
 ## Syllabus
 
 The current repository covers the following topics:
