@@ -132,7 +132,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/operations-research-with-python.git
+git clone https://github.com/parsasadri/operations-research-with-python.git
 ```
 
 Install the required packages:
